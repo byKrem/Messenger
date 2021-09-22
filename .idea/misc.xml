@@ -3,9 +3,10 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/TheIzvorg/AndroidStudioProjects/Messenger/app/src/main/res/layout/activity_main.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/TheIzvorg/AndroidStudioProjects/Messenger/app/src/main/res/layout/activity_main.xml" value="0.33" />
         <entry key="..\:/Users/TheIzvorg/AndroidStudioProjects/Messenger/app/src/main/res/layout/activity_user.xml" value="0.20520833333333333" />
         <entry key="..\:/Users/TheIzvorg/AndroidStudioProjects/Messenger/app/src/main/res/layout/item_list.xml" value="0.33" />
+        <entry key="..\:/Users/TheIzvorg/AndroidStudioProjects/Messenger/app/src/main/res/layout/item_lists.xml" value="0.209375" />
       </map>
     </option>
   </component>
